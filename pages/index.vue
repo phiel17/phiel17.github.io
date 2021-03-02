@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      hoge
+      hoge<br>fuga
     </div>
   </div>
 </template>
